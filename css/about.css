@@ -7,14 +7,14 @@
     font-family: 'Playfair Display', serif;
     text-align: center;
     color: #fff;
-    line-height: 1.5;
-    letter-spacing: 1px;
+    
+    
 }
 
 .wrapper{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.50), rgba(0,0,0,0.50)), url("./images/woodpanel.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.30), rgba(0,0,0,0.30)), url("../images/texture.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,6 +49,7 @@ article img{
 blockquote{
     font-size: 20px;
     margin-top: 30px;
+    line-height: 1.5;
 }
 
 article h5{
@@ -61,3 +62,4 @@ article h5{
 article p{
     font-size: 17px;
 }
+

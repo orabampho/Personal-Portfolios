@@ -11,7 +11,7 @@ body{
 
 .service-section{
     padding: 50px 60px;
-    background-image: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("./images/woodpanel.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.10), rgba(0,0,0,0.10)), url("../images/texture.jpg");
 }
 
 .service-section h1{
@@ -20,6 +20,7 @@ body{
     color: darkred;
     text-decoration: overline underline white;
     font-weight: bolder;
+    text-transform: uppercase;
 }
 
 .service-section h3{
@@ -42,6 +43,7 @@ body{
     background-color: #5e5e5e;
     cursor: pointer;
     border: solid whitesmoke 3px;
+    border-radius: 10px;
 }
 
 .cards-section>div:hover{
