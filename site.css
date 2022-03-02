@@ -19,6 +19,7 @@ nav{
     padding: 0px 50px;
     position: relative;
     z-index: 1;
+    border-bottom: #A23835 solid 1px;
 }
 
 nav .logo{
