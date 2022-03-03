@@ -14,6 +14,10 @@
     height: auto;
 }
 
+.gallery-container .gallery-item .gallery-title{
+    text-align: center;
+}
+
 .gallery-title{
     text-align: center;
 }
