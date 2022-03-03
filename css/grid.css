@@ -7,18 +7,24 @@
 
 body{
     background-color: #ECF0F1;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../images/bgflower.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #b9b6b6;
 }
 
 .service-section{
     padding: 50px 60px;
-    background-image: linear-gradient(rgba(0,0,0,0.10), rgba(0,0,0,0.10)), url("../images/woodpanel.jpg");
 }
 
 .service-section h1{
     font-size: 48px;
     text-align: center;
     color: darkred;
-    text-decoration: overline underline white;
+    text-decoration: overline underline black 2px;
     font-weight: bolder;
     text-transform: uppercase;
 }
@@ -42,7 +48,7 @@ body{
     padding: 30px 10px;
     background-color: #686868;
     cursor: pointer;
-    border: solid whitesmoke 2px;
+    border: solid black 2px;
     border-radius: 10px;
 }
 
