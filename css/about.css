@@ -6,7 +6,7 @@
     box-sizing: border-box;
     font-family: 'Playfair Display', serif;
     text-align: center;
-    color: black;
+    color: #1A1B1C;
 }
 
 body{
@@ -33,7 +33,7 @@ article h1{
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    color: #000;
+    color: #AB433B;
     text-decoration: overline underline white 1px;
     margin-bottom: 25px;
 }
@@ -49,7 +49,7 @@ article h1::after{
 article img{
     height: 400px;
     width: 500px;
-    border: 5px double black;
+    border: 8px double #1A1B1C;
    
     margin: 25px 25px 0 0;
     
@@ -88,6 +88,6 @@ article p{
 
 .quote{
     font-family: 'Special Elite', cursive;
-    color: darkred;
+    color: #AB433B;
     
 }

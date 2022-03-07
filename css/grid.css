@@ -23,8 +23,8 @@ body{
 .service-section h1{
     font-size: 48px;
     text-align: center;
-    color: darkred;
-    text-decoration: overline underline black 2px;
+    color: #AB433B;
+    text-decoration: overline underline #1A1B1C 2px;
     font-weight: bolder;
     text-transform: uppercase;
 }
@@ -32,7 +32,7 @@ body{
 .service-section h3{
     font-size: 36px;
     text-align: center;
-    color: #000;
+    color: #1A1B1C;
     font-weight: bolder;
 }
 
@@ -46,14 +46,14 @@ body{
 
 .cards-section>div{
     padding: 30px 10px;
-    background-color: #686868;
+    background-color: #939393;
     cursor: pointer;
-    border: solid black 2px;
+    border: solid #1A1B1C 2px;
     border-radius: 10px;
 }
 
 .cards-section>div:hover{
-    background-color: #8c8c8c;
+    background-color: #93B4B7;
     transition: 0.2s ease;
 }
 
@@ -62,7 +62,7 @@ body{
     width: 60px;
     line-height: 60px;
     border-radius: 50px;
-    background-color: darkred;
+    background-color: #AB433B;
     color: #fff;
     font-size: 24px;
     margin-bottom: 25px;
@@ -70,7 +70,7 @@ body{
 }
 
 .cards-section i:hover{
-    background-color: black;
+    background-color: #F3C761;
     transition: 0.5s ease;
 }
 
@@ -81,7 +81,7 @@ body{
 }
 
 .cards-section p{
-    color: #d4d4d4;
+    color: #EDE9E4;
     margin-bottom: 20px;
     line-height: 1.5;
 }
@@ -96,11 +96,11 @@ body{
 }
 
 .cards-section a:hover{
-    color: #000;
+    color: #1A1B1C;
     background-color: #ECF0F1;
     padding: 10px 20px;
 }
 
 .cards-section a:visited{
-    color: darkred;
+    color: #AB433B;
 }

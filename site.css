@@ -39,9 +39,9 @@ nav .logo{
 
 nav .logo p{
     float: left;
-    color: darkred;
+    color: #1A1B1C;
     text-transform: uppercase;
-    text-decoration: overline underline;
+    text-decoration: overline underline #A8433B;
     font-weight: bolder;
 }
 
@@ -55,7 +55,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: #000;
+    color: #1A1B1C;
     text-decoration: none;
     font-size: 20px;
     padding: 0px 10px;
@@ -64,12 +64,12 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: #A23835;
-    text-decoration: solid #A23835 underline;
+    color: #A8433B;
+    text-decoration: solid #A8433B underline;
 }
 
 nav ul li .active{
-    color: #A23835;
+    color: #A8433B;
 }
 
 .banner {
@@ -79,7 +79,7 @@ nav ul li .active{
     top: 45%;
     left: 52%;
     margin: -50px 0 0 -70px;
-    color: #000;
+    color: #1A1B1C;
     font-size: 48px;
     font-weight: bolder;
     font-style: italic;
@@ -90,7 +90,7 @@ nav ul li .active{
     font-size: 28px;
     display: block;
     text-align: right;
-    color: #000; 
+    color: #1A1B1C; 
     margin: 25px 25px 0 auto;
   }
 
@@ -130,8 +130,8 @@ nav ul li .active{
 }
 
 #footer a:hover {
-    text-decoration: underline;
-    color: #A23835;
+    text-decoration: underline #F3C761;
+    color: #93B4B7;
 }
 
 #copyright {
@@ -142,7 +142,7 @@ nav ul li .active{
 /*content setting*/
 .container .card-title {
     font-size: 36px;
-    color: black;
+    color: #1A1B1C;
     font-weight: bold; 
     margin-top: 30px; 
     margin-bottom: 15px;   
@@ -151,7 +151,7 @@ nav ul li .active{
 
 .card-title{
     font-size: 36px;
-    color: black;
+    color: #1A1B1C;
     text-align: center;
     font-weight: bold; 
     margin-top: 15px; 
@@ -165,7 +165,7 @@ nav ul li .active{
 
 .bucket-list ul {
     list-style-type: none;
-    color: #191A1A;
+    color: #1A1B1C;
     display: inline-block;
     text-align: center;
     font-size: 24px; 
@@ -189,7 +189,7 @@ padding-bottom: 10px;
     background-image: url("./images/river.jpg");
     background-position: center;
     background-size: cover;
-    border: #A23835 solid double 3px;
+    border: #A8433B solid double 3px;
 }
 
 .assign-container {
@@ -215,7 +215,7 @@ padding-bottom: 10px;
 .banner-title {
     padding-top: 10%;
     font-size: 48px;
-    color: #A23835;
+    color: #A8433B;
     font-weight: bold;
     font-style: italic;
     text-align: right;
@@ -228,7 +228,7 @@ padding-bottom: 10px;
 
     padding: 20px 10px;
     text-align: center;
-    color: #A23835;
+    color: #A8433B;
     
 }    
 
@@ -243,7 +243,7 @@ padding-bottom: 10px;
 
     padding: 20px 10px;
     text-align: center;
-    color: #A23835;
+    color: #A8433B;
     font-size: 36px;
     padding-top: 0;
     
