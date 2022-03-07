@@ -47,11 +47,12 @@ article h1::after{
 }
 
 article img{
-    height: 250px;
-    width: 300px;
-    border: 2px solid #fff;
-    float: left;
+    height: 400px;
+    width: 500px;
+    border: 5px double black;
+   
     margin: 25px 25px 0 0;
+    
 }
 
 .main-content{
@@ -78,6 +79,11 @@ article h5{
 }
 
 article p{
-    font-size: 17px;
+    font-size: 20px;
 }
+
+.about-list{
+    text-align: center;
+}
+
 
