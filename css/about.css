@@ -86,4 +86,8 @@ article p{
     text-align: center;
 }
 
-
+.quote{
+    font-family: 'Special Elite', cursive;
+    color: darkred;
+    
+}
