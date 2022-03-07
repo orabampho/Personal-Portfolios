@@ -34,7 +34,7 @@ article h1{
     text-transform: uppercase;
     letter-spacing: 1.5px;
     color: #AB433B;
-    text-decoration: overline underline white 1px;
+    text-decoration: overline underline #1A1B1C 2px;
     margin-bottom: 25px;
 }
 
