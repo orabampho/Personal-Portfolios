@@ -1,3 +1,12 @@
+/*
+===================================================  
+Title:  Personal Portfolios
+Author: Professor Krasso
+Date:  06 March 2022
+Description: Rabampho's portfolios - images gallery stylesheet
+====================================================
+*/
+
 .container-grid {
     display: grid;
     grid-template-columns: repeat(6,1fr);

@@ -1,3 +1,11 @@
+/*
+===================================================  
+Title:  Personal Portfolios
+Author: Professor Krasso
+Date:  06 March 2022
+Description: Rabampho's portfolios - site header script
+====================================================
+*/
 class Header extends HTMLElement {
   constructor() {
     super();
